@@ -1,0 +1,2 @@
+# Brain-Tumor--Detection-using-Machine-Learning_and_CNNs
+Brain Tumor Detection using Machine Learning and CNNs  Overview: This repository presents a comprehensive approach to brain tumor detection using machine learning algorithms and convolutional neural networks (CNNs). The project aims to develop an accurate and reliable system for automatic brain tumor detection, segmentation, and classification.
